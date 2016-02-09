@@ -5,3 +5,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	The staging area is a great place to organize and get ready for a commit. It is a special place where your info is stored for your next commit, the working directory is the current location you are at, and the repository is the whole project. The staging area is great way to easily get ready for a commit and commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Using different versions of git diff you can verify what changes are currently in your working directory, staging area, and your current commit; to make sure each commit will be a logical change.
