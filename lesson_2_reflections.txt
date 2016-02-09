@@ -9,3 +9,7 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	Using different versions of git diff you can verify what changes are currently in your working directory, staging area, and your current commit; to make sure each commit will be a logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	If you have a working app and you want to add a special feature, but you are unsure of it yet. Then you can make a branch for that feature and work on it there until your ready to merge it with the master branch. So you can experiment without getting in the way of your master code.
