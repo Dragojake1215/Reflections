@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	When you initialize a repository a hidden directory is created called ".Git". That's where Git stores all of your commits and git related data. You need it so you can make a commits and save your data via Git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is a great place to organize and get ready for a commit. It is a special place where your info is stored for your next commit, the working directory is the current location you are at, and the repository is the whole project. The staging area is great way to easily get ready for a commit and commit.
