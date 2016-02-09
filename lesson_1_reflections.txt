@@ -1,0 +1,24 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	It was so convenient. I mean if I tried to do that by hand it would have taken much longer. If there are even easier ways to do this that would be amazing. I know this course is about github and git, so maybe using git is even easier, but I certainly can't wait.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	As a programmer you never know when you will make mistake or remove a file by acciddent or something of the sorts. Now knowing you can make a mistakes and fix them easy is not an excuse to make mistakes because you don't care, but if you do make a mistake you can easily fix it and keep going.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Pros: You won't get a half working or broken version of a file; You have control of when it saves so it is a logical save.
+	Cons: If you forget, it won't save; Sometimes you want to not have to bother about saving it; Auto saving is pretty cool too.
+
+Why do you think some version control systems, like Git allow saving multiple files in one commit, while others, like Google Docs, treat each file seperately?
+
+	I think treating the files together is good because if you make changes to multiple files of course you would want to see the changes together. Treating files seperately isn't bad but the way git does it is more efficient.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	By using git log you can view your history of different commits. Then using git diff you can view the changes you made to the files and decide if you want to use that file or fix an error in the current commit.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I want to try using Git to for making android apps, and keeping my code nice. My original intent for this course was to learn how to use Git and Github but this is much more helpful than I originally thought, and now I will use it for bigger projects someday.
