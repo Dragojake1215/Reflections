@@ -21,3 +21,8 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	The result is a single commit sharing the files of one branch and the other branch odered by date. It is a working commit combining the two files code into one file. Well you represent it that way because that's a well known way to organise a branch structure and it is very useful.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+	Pros: Automatic merging is nice because you don't have to do it yourself; It's really convenient.
+	Cons: It can't always do it itself so it gives you a warning to decide manually; Sometimes it even does things wrong.
