@@ -17,3 +17,7 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 	Well the diagrams were actually mostly useful to help me with branch structure. But using a diagram to help me understand detached HEAD didn't help, and I still don't understand a lot about it.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result is a single commit sharing the files of one branch and the other branch odered by date. It is a working commit combining the two files code into one file. Well you represent it that way because that's a well known way to organise a branch structure and it is very useful.
